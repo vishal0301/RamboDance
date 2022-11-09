@@ -1,0 +1,4 @@
+jump left
+jump right
+twirl your hands
+Rainbow dance
